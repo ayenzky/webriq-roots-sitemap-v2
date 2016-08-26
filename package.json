@@ -1,0 +1,23 @@
+{
+  "name": "webriq-roots-sitemap-v2",
+  "version": "1.0.31",
+  "description": "webriq sitemap generator",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "dependencies": {
+    "event-stream": "^3.3.4",
+    "lodash": "^4.14.2",
+    "moment": "^2.14.1",
+    "readdir": "0.0.13",
+    "readdir-plus": "^0.4.1",
+    "readdirp": "^2.1.0"
+  },
+  "keywords": [
+    "sitemap"
+  ],
+  "author": "@allen.support",
+  "license": "MIT",
+  "devDependencies": {}
+}
